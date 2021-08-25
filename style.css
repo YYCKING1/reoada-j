@@ -1,0 +1,74 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    background-color: red;
+}
+.header_div
+{
+    background: pink;
+    color: orange;
+}
+
+.header_div img
+{
+    width : 100px;
+}
+
+.main_div
+{
+    background: yellow;
+    padding:10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label
+{
+background: springgreen;
+width: 310px;
+padding: 10px;
+margin-bottom: 5px;
+box-shadow: 6px 6px 6px blue;
+}
+
+#camera,#result
+{
+border: 2px solid white;
+width:310px;
+height: 310px;
+box-shadow:  6px 6px 6px pink; 
+}
+.main_div button
+{
+    width:310px;
+    font-size: 18px;
+    box-shadow: 6px 6px 6px orange;
+    border: 1px solid;
+}
+.footer_div
+{
+    margin-bottom: 10px;
+    background-color: grey;
+}
+.footer_div h4
+{
+    background: springgreen;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px yellow;
+}
+.footer_div img
+{
+    width:70px;   
+    margin-left: 0px;
+
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    background-color: gold;
+    width: 100%;
+}
